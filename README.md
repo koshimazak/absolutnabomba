@@ -1,5 +1,5 @@
 # absolutnabomba
-Zlepe ostatków zdrowia psychicznego autora.
+Zlepek ostatków zdrowia psychicznego autora.
 
 Zawartość tego projektu powinna wypełnić(w jakimś procencie) wymagiania zadań z nawigatorów oraz login app'a.
 W projekcie zawarty jest jeden nawigator typu stack.
